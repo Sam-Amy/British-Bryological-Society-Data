@@ -1,7 +1,7 @@
 # British Bryological Society data
 ### Recent exports of bryophyte records from the BBS database by vice-county
 
-1) Select the folder above named 'BBS data for England'
+1) Select the folder above for the appropriate country
 
 
 2) Scroll to the correct VC and select the file name
