@@ -3,7 +3,7 @@
 
 1) Select the folder above for the appropriate country
 
-![Alt text](https://github.com/Sam-Amy/British-Bryological-Society-Data/tree/main/Download%20instructions/step1.png?raw=true)
+![Alt text](https://github.com/Sam-Amy/British-Bryological-Society-Data/tree/main/Download%20instructions/step1.png)
 
 2) Scroll to the correct VC and select the file name
 
