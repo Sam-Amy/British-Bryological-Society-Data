@@ -12,3 +12,5 @@
 3) Select 'Download' towards the bottom right-hand side of the screen
 
 ![Alt text](/Download instructions/step3.png?raw=true)
+
+![Alt text](/step1.png?raw=true)
