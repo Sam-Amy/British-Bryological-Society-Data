@@ -2,15 +2,10 @@
 ### Recent exports of bryophyte records from the BBS database by vice-county
 
 1) Select the folder above for the appropriate country
-
-![Alt text](https://github.com/Sam-Amy/British-Bryological-Society-Data/tree/main/Download%20instructions/step1.png)
+![Alt text](/step1.png?raw=true)
 
 2) Scroll to the correct VC and select the file name
-
-![Alt text](/Download instructions/step2.png?raw=true)
+![Alt text](/step2.png?raw=true)
 
 3) Select 'Download' towards the bottom right-hand side of the screen
-
-![Alt text](/Download instructions/step3.png?raw=true)
-
-![Alt text](/step1.png?raw=true)
+![Alt text](/step3.png?raw=true)
