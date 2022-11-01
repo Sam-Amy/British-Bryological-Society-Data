@@ -1,5 +1,5 @@
 # British Bryological Society data
-### Recent exports of bryophyte records from the BBS database by vice-county
+### BBS records by vice-county to download
 
 1) Select the folder above for the appropriate country
 ![Alt text](/step1.png?raw=true)
