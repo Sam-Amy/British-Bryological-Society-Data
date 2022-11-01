@@ -3,7 +3,7 @@ This repository contains data from the BBS database for the use of BBS regional 
 1. [Bryophyte data for Great Britain and Ireland from the British Bryological Society held by BRC: data compiled post-Atlas.](https://registry.nbnatlas.org/public/show/dr924) 
 2. [Bryophyte data for Great Britain from the British Bryological Society held by BRC: Atlas 2014. British Bryological Society.](https://www.britishbryologicalsociety.org.uk/publications/atlas-of-british-and-irish-bryophytes/)
 
-The NBN also holds bryophyte data from iRecrod, which are not currently incorporated into the BBS database:
+The NBN also holds bryophyte data collected via iRecord, which are not currently incorporated into the BBS database unless regional recorders have specifically sent them in for inclusion:
 
 3. [Bryophyte records via iRecord. British Bryological Society](https://registry.nbnatlas.org/public/show/dr2141)
 
