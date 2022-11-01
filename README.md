@@ -1,5 +1,5 @@
 # British Bryological Society data
-This repository contains data from the BBS database for the use of BBS regional recorders. BBS data is also periodically added to the [NBN Atlas](https://registry.nbnatlas.org/public/show/dp74) for public use, and has been published in Atlases, most recently the [Atlas of British and Irish Bryophytes](https://www.britishbryologicalsociety.org.uk/publications/atlas-of-british-and-irish-bryophytes/) (Blockeel et al. 2014) 
+This repository contains data from the BBS database for the use of BBS regional recorders. BBS data is also periodically added to the [NBN Atlas](https://registry.nbnatlas.org/public/show/dp74) for public use, and has been published in the [Atlas of British and Irish Bryophytes](https://www.britishbryologicalsociety.org.uk/publications/atlas-of-british-and-irish-bryophytes/) (Blockeel et al. 2014) and previous Atlases.
 
 ### Citations
 Blockeel TL, Bosanquet SDS, Hill M , Preston C (eds) 2014. Atlas of British and Irish bryophytes. Newbury: Pisces Publications.
